@@ -14,12 +14,6 @@ Registrar minha evolução no aprendizado de Machine Learning, desde os fundamen
 
 ---
 
-Análises e desenvolvimento do projeto em notebooks Jupyter.
-- **`scripts/`**: Scripts reutilizáveis para preprocessamento ou execução.
-- **`outputs/`**: Resultados, gráficos e modelos finais.
-
----
-
 ## **Projetos Incluídos**
 1. **`linear_regression_basics/`**: 
    - Objetivo: Compreender e aplicar regressão linear em problemas simples.
@@ -33,4 +27,4 @@ Análises e desenvolvimento do projeto em notebooks Jupyter.
 - Visualizações (Matplotlib, Seaborn, Plotly)
 - Manipulação de dados
 
----
+
