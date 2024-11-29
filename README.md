@@ -15,9 +15,7 @@ Registrar minha evolução no aprendizado de Machine Learning, desde os fundamen
 ---
 
 ## **Projetos Incluídos**
-1. **`linear_regression_basics/`**: 
-   - Objetivo: Compreender e aplicar regressão linear em problemas simples.
-   - Destaques: Análise exploratória, modelagem e avaliação de desempenho.
+1. **`predicting-career-change/`**: 
 
 ---
 
